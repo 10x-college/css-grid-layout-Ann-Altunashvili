@@ -19,7 +19,13 @@
     -   გამოიყენეთ სემანტიკური HTML თეგები.
     -   დაწერეთ სუფთა და ორგანიზებული CSS.
     -   დაიცავით ინდენტაცია (Naming conventions).
-        
+
+![Design Preview](./assets/preview/preview-1.png).
+![Design Preview](./assets/preview/preview-2.png).
+![Design Preview](./assets/preview/preview-3.png).
+![Design Preview](./assets/preview/preview-4.png).
+
+[ნამუშევრის ლინკი](https://ann-altunashvili.github.io/Grid-cards/index-4.html)
 
 ## 🚀 სამუშაო პროცესი (Workflow)
 

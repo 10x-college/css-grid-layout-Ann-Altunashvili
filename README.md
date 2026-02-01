@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/F3KaL0CB)
 
 
 # 🎨 Photo Gallery Layouts (CSS Grid)
@@ -18,7 +19,13 @@
     -   გამოიყენეთ სემანტიკური HTML თეგები.
     -   დაწერეთ სუფთა და ორგანიზებული CSS.
     -   დაიცავით ინდენტაცია (Naming conventions).
-        
+
+![Design Preview](./assets/preview/preview-1.png).
+![Design Preview](./assets/preview/preview-2.png).
+![Design Preview](./assets/preview/preview-3.png).
+![Design Preview](./assets/preview/preview-4.png).
+
+[ნამუშევრის ლინკი](https://ann-altunashvili.github.io/Grid-cards/index-4.html)
 
 ## 🚀 სამუშაო პროცესი (Workflow)
 
